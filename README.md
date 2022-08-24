@@ -9,10 +9,6 @@
 </p>
 
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=duleepdaniel&show_icons=true&count_private=true&theme=tokyonight" width="450"></a>
-</p>
-
-<p>
   <b>Tech Stack</b>&nbsp;💻<br/><br/>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
@@ -48,4 +44,9 @@
   📫 You can reach me at <a href='mailto:duleep.daniel@gmail.com'>duleep.daniel@gmail.com</a>
 </p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=duleepdaniel&" alt="duleepdaniel" /></p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duleepdaniel&" alt="duleepdaniel" />
+</p>
+<p>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=duleepdaniel&count_private=true&show_icons=true&theme=tokyonight" width="450"></a>
+</p>
