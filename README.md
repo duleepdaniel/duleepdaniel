@@ -45,7 +45,7 @@
 
 
 <p>
-  📫 You can reach me at **duleep.daniel@gmail.com**
+  📫 You can reach me at <a href='mailto:duleep.daniel@gmail.com'>**duleep.daniel@gmail.com**</a>
 </p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=duleepdaniel&" alt="duleepdaniel" /></p>
