@@ -45,8 +45,8 @@
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duleepdaniel&" alt="duleepdaniel" />
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=duleepdaniel&count_private=true&show_icons=true&theme=tokyonight" width="450"></a>
 </p>
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=duleepdaniel&count_private=true&show_icons=true&theme=tokyonight" width="450"></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duleepdaniel&" alt="duleepdaniel" />
 </p>
