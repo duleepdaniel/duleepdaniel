@@ -6,16 +6,19 @@
   <a href="https://in.linkedin.com/in/duleep-panthagani-a15b53158">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:duleep.daniel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p>
   <b>Tech Stack</b>&nbsp;💻<br/><br/>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
@@ -34,15 +37,10 @@
 <details>
   <summary>⚡ Quick facts</summary>
   
-- 💼 I'm currently working as a Software Engineer at <a href="https://www.annkissam.com/">Annkissam</a>  
+- 💼 I'm currently working as a Software Engineer at <a href="https://www.hhaexchange.com/">HHAeXchange</a>  
 - 💬 Ask me about Technologies such as **Ruby on Rails, React**
 
 </details>
-
-
-<p>
-  📫 You can reach me at <a href='mailto:duleep.daniel@gmail.com'>duleep.daniel@gmail.com</a>
-</p>
 
 <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=duleepdaniel&count_private=true&show_icons=true&theme=tokyonight" width="450"></a>
