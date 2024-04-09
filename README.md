@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duleep</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h3 align="center">A passionate Full Stack Web developer</h3>
 
 <h3 align="left">Connect with me via:</h3>
 <p>
@@ -37,8 +37,8 @@
 <details>
   <summary>⚡ Quick facts</summary>
   
-- 💼 I'm currently working as a Software Engineer at <a href="https://www.hhaexchange.com/">HHAeXchange</a>  
-- 💬 Ask me about Technologies such as **Ruby on Rails, React**
+- 💼 I'm currently working as a Graduate Student Assistant at <a href="https://www.usf.edu/">USF</a>  
+- 💬 Ask me about Technologies such as **Ruby on Rails, React, DevOps**
 
 </details>
 
