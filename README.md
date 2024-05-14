@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 <p>
   <b>Tech Stack</b>&nbsp;💻<br/><br/>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
@@ -30,8 +29,6 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  
-  
 </p>
 
 <details>
@@ -42,9 +39,10 @@
 
 </details>
 
-<p>
+<!-- <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=duleepdaniel&count_private=true&show_icons=true&theme=tokyonight" width="450"></a>
-</p>
+</p> -->
+
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=duleepdaniel&" alt="duleepdaniel" />
 </p>
