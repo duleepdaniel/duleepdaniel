@@ -9,7 +9,11 @@
   <a href="mailto:duleep.daniel@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://duleep-panthagani.netlify.app/">
+    <img src="https://img.shields.io/badge/Personal%20Blog-067633?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
 </p>
+
 <p>
   <b>Tech Stack</b>&nbsp;💻<br/><br/>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
@@ -40,7 +44,7 @@
 </details>
 
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=duleepdaniel&count_private=true&show_icons=true&theme=tokyonight" width="450"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=duleepdaniel&count_private=true&show_icons=true&theme=blue-green" width="450"></a>
 </p>
 
 <p>
