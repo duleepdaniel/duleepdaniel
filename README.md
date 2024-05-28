@@ -44,7 +44,7 @@
 </details>
 
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=duleepdaniel&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" width="450"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=duleepdaniel&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" width="450"></a>
 </p>
 
 <p>
