@@ -43,9 +43,9 @@
 
 </details>
 
-<p>
+<!-- <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=duleepdaniel&show_icons=true&theme=blue-green&include_all_commits=true&show_icons=true&count_private=true" width="450"></a>
-</p>
+</p> -->
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=duleepdaniel&" alt="duleepdaniel" />
