@@ -43,10 +43,12 @@
 
 </details>
 
-<!-- <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=duleepdaniel&show_icons=true&theme=blue-green&include_all_commits=true&show_icons=true&count_private=true" width="450"></a>
-</p> -->
+<p>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=duleepdaniel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="450"></a>
+</p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duleepdaniel&" alt="duleepdaniel" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duleepdaniel&theme=vue-dark&hide_border=true" alt="duleepdaniel" />
 </p>
+
+![duleepdaniel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duleepdaniel&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
