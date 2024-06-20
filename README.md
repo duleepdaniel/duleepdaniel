@@ -44,11 +44,12 @@
 </details>
 
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=duleepdaniel&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" width="450"></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duleepdaniel&theme=tokyonight&hide_border=false" alt="duleepdaniel" />
 </p>
 
+
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duleepdaniel&theme=tokyonight&hide_border=false" alt="duleepdaniel" />
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=duleepdaniel&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" width="450"></a>
 </p>
 
 ![duleepdaniel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duleepdaniel&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
