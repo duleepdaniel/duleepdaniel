@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -41,15 +42,12 @@
 <details>
   <summary>⚡ Quick facts</summary>
   
-- 💼 I'm currently working as a Graduate Student Assistant at <a href="https://www.usf.edu/">USF</a>  
+- 💼 I'm currently working as Software Engineer at <a href="[https://www.usf.edu](https://www.hhaexchange.com/)/">HHAeXchange</a>  
 - 💬 Ask me about Technologies such as **Ruby on Rails, React, DevOps**
 
 </details>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duleepdaniel&theme=tokyonight&hide_border=false" alt="duleepdaniel" />
-</p>
-
+Some Boring Stats...
 
 <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=duleepdaniel&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" width="450"></a>
